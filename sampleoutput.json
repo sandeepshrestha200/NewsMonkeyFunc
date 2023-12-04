@@ -1,0 +1,50 @@
+{
+  "status": "ok",
+  "totalResults": 4,
+  "articles": [
+    {
+      "source": { "id": "news-com-au", "name": "News.com.au" },
+      "author": null,
+      "title": "Indian fans slam Aussie’s act of ‘disrespect’",
+      "description": "A photo has emerged of a very happy World Cup winner Mitch Marsh kicking back with a beer in one hand and his socked feet resting on the trophy.",
+      "url": "https://www.news.com.au/sport/cricket/world-cup/mitch-marsh-world-cup-photo-draws-fierce-response-on-social-media/news-story/92fb51993fbaf0a57e503e948b1a4e0a",
+      "urlToImage": "https://content.api.news/v3/images/bin/ec253ca2762fb7fd02bc3481e09c662f",
+      "publishedAt": "2023-11-20T10:39:00Z",
+      "content": "A photo has emerged of a very happy World Cup winner Mitch Marsh kicking back with a beer in one hand and his socked feet resting on the trophy.\r\nCue the outrage.\r\nWatch India v Australia on Kayo Spo… [+2731 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Joe Pinsker",
+      "title": "The Pay Raise People Say They Need to Be Happy",
+      "description": "We frequently overestimate just how much happiness money buys",
+      "url": "https://www.wsj.com/personal-finance/income-raise-happiness-06a70900?mod=hp_lead_pos9",
+      "urlToImage": "https://images.wsj.net/im-889094/social",
+      "publishedAt": "2023-11-20T02:00:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": "politico", "name": "Politico" },
+      "author": null,
+      "title": "Biden dodges on why Americans are still unhappy with the economy",
+      "description": null,
+      "url": "https://www.politico.com/video/2023/10/06/biden-dodges-on-why-americans-are-still-unhappy-with-the-economy-1089027",
+      "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1155968404/40c72cbd-10be-4319-9f16-500aadd8b18d/cf4145ad-112b-4559-8a53-091d326e85fd/1280x720/match/image.jpg",
+      "publishedAt": "2023-10-06T17:33:20+00:00",
+      "content": null
+    },
+    {
+      "source": { "id": "the-hill", "name": "The Hill" },
+      "author": "Alexander Bolton",
+      "title": "GOP moderates send message on Supreme Court",
+      "description": "By breaking with Senate Minority Leader Mitch McConnell (R-Ky.) over Judge Ketanji Brown Jackson, three Republican moderates sent a clear message that they aren’t happy about how partisan Supreme Court confirmation proceedings have become.   Sens. Lisa Murkow…",
+      "url": "https://thehill.com/news/senate/3260061-gop-moderates-send-message-on-supreme-court/",
+      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2022/04/romneymitt_collinssusan_murkowskilisa_040522gn_lead.jpg?w=1280",
+      "publishedAt": "2022-04-06T10:00:00Z",
+      "content": "By breaking with Senate Minority Leader Mitch McConnell (R-Ky.) over Judge Ketanji Brown Jackson, three Republican moderates sent a clear message that they arent happy about how partisan Supreme Cour… [+7494 chars]"
+    }
+  ]
+}
+6d948381b910411d8b89ad0e16c3cf91
